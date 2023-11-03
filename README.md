@@ -1,8 +1,7 @@
 <h2> Hello 👋 </h2>
   
 <p>
-My name is Rodrigo Munguía Garrido 🇲🇽 and I am a Student of Computer Systems Engineer
-</p>
+My name is Rodrigo Munguía Garrido 🇲🇽 and I am a Web Developer</p>
 
 <h3> Tech Knowledge  </h3>
 
@@ -50,8 +49,4 @@ My name is Rodrigo Munguía Garrido 🇲🇽 and I am a Student of Computer Syst
 <img src=https://user-images.githubusercontent.com/38513145/138404182-5986d4ca-ae47-4902-9b2f-ae305f7c59ff.png>
 </p> 
 
-<h4> Now Playing 🎧</h4>
-
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lvt2lnrwaj07liftxqnicfu30&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lvt2lnrwaj07liftxqnicfu30&redirect=true)
 
